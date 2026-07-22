@@ -7,4 +7,3 @@
 .portrait.p1 img{object-position:22% 28%}.portrait.p2 img{object-position:39% 28%}.portrait.p3 img{object-position:56% 28%}.portrait.p4 img{object-position:77% 28%}
 .portrait img{transform:none;object-position:center 25%}
 .person{display:flex;flex-direction:column}.person-copy{display:flex;flex:1;flex-direction:column}.person-copy>p{color:#52626a;line-height:1.7;margin:.9rem 0 0}.person-contact{margin-top:auto;padding-top:20px}
-.nav-cta{border-radius:999px;padding-inline:1.35rem}
